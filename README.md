@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaya-biswal
-- 👀 I’m interested in JS 
+- 👀 I'm a front-end developer with 5 years of experience. I enjoy building web apps. My focus is ReactJS & NextJS
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on MERN stack projects
 - 📫 reach me on akshaya.join@gmail.com 
